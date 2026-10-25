@@ -42,7 +42,7 @@ The providers below are options to evaluate for Pakistani businesses. Merchant e
     </tr>
     <tr>
       <td><strong>Easypaisa</strong></td>
-      <td align="center"><a href="https://easypaisa.com.pk/"><img src="https://www.google.com/s2/favicons?domain=easypaisa.com.pk&sz=128" width="48" alt="Easypaisa logo"></a></td>
+      <td align="center"><a href="https://easypaisa.com.pk/"><img src="https://logo.clearbit.com/easypaisa.com.pk" width="48" alt="Easypaisa logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=easypaisa.com.pk&sz=128';"></a></td>
       <td>Wallet and supported merchant payment methods</td>
       <td><a href="https://easypaisa.com.pk/">easypaisa.com.pk</a></td>
     </tr>
@@ -54,13 +54,13 @@ The providers below are options to evaluate for Pakistani businesses. Merchant e
     </tr>
     <tr>
       <td><strong>Keenu</strong></td>
-      <td align="center"><a href="https://keenu.pk/"><img src="https://www.google.com/s2/favicons?domain=keenu.pk&sz=128" width="48" alt="Keenu logo"></a></td>
+      <td align="center"><a href="https://keenu.pk/"><img src="https://logo.clearbit.com/keenu.pk" width="48" alt="Keenu logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=keenu.pk&sz=128';"></a></td>
       <td>Merchant payment solutions; confirm the required service with the provider</td>
       <td><a href="https://keenu.pk/">keenu.pk</a></td>
     </tr>
     <tr>
       <td><strong>Bank Alfalah</strong></td>
-      <td align="center"><a href="https://www.bankalfalah.com/"><img src="https://www.google.com/s2/favicons?domain=bankalfalah.com&sz=128" width="48" alt="Bank Alfalah logo"></a></td>
+      <td align="center"><a href="https://www.bankalfalah.com/"><img src="https://logo.clearbit.com/bankalfalah.com" width="48" alt="Bank Alfalah logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bankalfalah.com&sz=128';"></a></td>
       <td>Bank merchant and online payment solutions</td>
       <td><a href="https://www.bankalfalah.com/">bankalfalah.com</a></td>
     </tr>
