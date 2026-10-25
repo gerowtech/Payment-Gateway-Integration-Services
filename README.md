@@ -26,7 +26,7 @@ Professional payment gateway integration services for e-commerce, SaaS, and cust
 | **Rapid Gateway** | <img src="https://www.google.com/s2/favicons?domain=rapidgateway.pk&sz=128" width="48" alt="Rapid Gateway logo"> | [rapidgateway.pk](https://rapidgateway.pk/) |
 
 > 
-## Technology Stack & Logos
+## Technology Stack
 
 ### Frontend
 <p>
@@ -110,15 +110,15 @@ Add `.env` to `.gitignore`. If you include an `.env.example`, use placeholders o
 - Payment Gateway API Integration
 - SaaS Subscription Payment Integration
 - Custom Payment Gateway Integration Developer
-- Payment Gateway Integration in Pakistan
+- Payment Gateway Integration
 
 ## Official Provider Resources
 
 - [Safepay](https://safepay.pk/)
-- [PayFast Pakistan](https://gopayfast.com/)
+- [PayFast](https://gopayfast.com/)
 - [JazzCash](https://www.jazzcash.com.pk/)
 - [Easypaisa](https://easypaisa.com.pk/)
-- [HBL Pakistan](https://www.hbl.com/)
+- [HBL Bank](https://www.hbl.com/)
 - [Bank Alfalah](https://www.bankalfalah.com/)
 - [Keenu](https://keenu.pk/)
 
