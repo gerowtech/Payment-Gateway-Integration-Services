@@ -1,4 +1,4 @@
-# Payment Gateway Integration Services in Pakistan
+# Payment Gateway Integration Services
 
 Payment gateway integration resources for Pakistani e-commerce stores, SaaS products, and custom web applications.
 
@@ -6,11 +6,11 @@ Payment gateway integration resources for Pakistani e-commerce stores, SaaS prod
 [![Payments](https://img.shields.io/badge/Focus-Payment%20Integration-2563EB)](#services-covered)
 [![API](https://img.shields.io/badge/Integration-REST%20API%20%7C%20Webhooks-6D28D9)](#typical-integration-workflow)
 
->  This README is an overview and integration-planning resource, not a complete payment gateway implementation. Merchant eligibility, supported payment methods, API access, fees, and recurring-payment capabilities can change. Confirm details with each provider before going live.
+> **Project status:** This README is an overview and integration-planning resource, not a complete payment gateway implementation. Merchant eligibility, supported payment methods, API access, fees, and recurring-payment capabilities can change. Confirm details with each provider before going live.
 
 ## 🇵🇰 Supported Payment Providers
 
-Professional payment gateway integration services for e-commerce, SaaS, and custom web applications in Pakistan.
+Professional payment gateway integration services for e-commerce, SaaS, and custom web applications.
 
 | Payment Provider | Logo | Official Website |
 |---|---|---|
@@ -25,7 +25,7 @@ Professional payment gateway integration services for e-commerce, SaaS, and cust
 | **Faysal Bank** | <img src="https://www.google.com/s2/favicons?domain=faysalbank.com&sz=128" width="48" alt="Faysal Bank logo"> | [faysalbank.com](https://www.faysalbank.com/) |
 | **Rapid Gateway** | <img src="https://www.google.com/s2/favicons?domain=rapidgateway.pk&sz=128" width="48" alt="Rapid Gateway logo"> | [rapidgateway.pk](https://rapidgateway.pk/) |
 
-> **Logo troubleshooting:** These are favicon images loaded from Google's favicon service, not official high-resolution brand assets. If a provider's favicon is unavailable or blank, download an approved logo image and store it in this repository (for example, `assets/payment-gateways/easypaisa.png`), then use a relative image path such as `![Easypaisa](assets/payment-gateways/easypaisa.png)`. GitHub sanitizes some HTML attributes, so JavaScript-based image fallbacks may not work in README files. Verify each provider's current official website and merchant/API availability before implementation.
+> 
 ## Technology Stack & Logos
 
 ### Frontend
