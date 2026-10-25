@@ -6,7 +6,7 @@ Payment gateway integration resources for Pakistani e-commerce stores, SaaS prod
 [![Payments](https://img.shields.io/badge/Focus-Payment%20Integration-2563EB)](#services-covered)
 [![API](https://img.shields.io/badge/Integration-REST%20API%20%7C%20Webhooks-6D28D9)](#typical-integration-workflow)
 
-> **Project status:** This README is an overview and integration-planning resource, not a complete payment gateway implementation. Merchant eligibility, supported payment methods, API access, fees, and recurring-payment capabilities can change. Confirm details with each provider before going live.
+>  This README is an overview and integration-planning resource, not a complete payment gateway implementation. Merchant eligibility, supported payment methods, API access, fees, and recurring-payment capabilities can change. Confirm details with each provider before going live.
 
 ## 🇵🇰 Supported Payment Providers
 
