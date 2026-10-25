@@ -17,7 +17,7 @@ Integrating payment gateways into e-commerce stores, SaaS platforms, marketplace
 
 ## 📌 Overview
 
-GEROW TECH provides payment gateway integration services for businesses that need reliable online payment processing. This repository is a country-organized reference directory of payment providers, official websites, and useful integration resources.
+GEROW TECH LLC provides payment gateway integration services for businesses that need reliable online payment processing. This repository is a country-organized reference directory of payment providers, official websites, and useful integration resources.
 
 The directory covers **Pakistan, Germany, Australia, New Zealand, the Netherlands, Sweden, Italy, France, Spain, the United Kingdom, Canada, Singapore, the United Arab Emirates, Brazil, Japan, and India**, plus selected global providers.
 
