@@ -128,10 +128,10 @@ Always consult the selected provider's official developer documentation for auth
 
 Need payment gateway integration for your e-commerce store, SaaS product, or custom web application? Contact **GEROW TECH** to discuss your requirements.
 
-- **WhatsApp:** [+92 321 5348101](https://wa.me/923215348101)
-- **Website:** [www.gerowtech.com](https://www.gerowtech.com)
+- **WhatsApp:** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923215348101) [+92 321 5348101](https://wa.me/923215348101)
+- **Website:** [![Website](https://img.shields.io/badge/Website-gerowtech.com-0A66C2?logo=googlechrome&logoColor=white)](https://www.gerowtech.com) [www.gerowtech.com](https://www.gerowtech.com)
 
-**Ready to integrate payments?** [Chat with us on WhatsApp](https://wa.me/923215348101) or visit [GEROW TECH](https://www.gerowtech.com).
+**Ready to integrate payments?** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20us-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923215348101) [![Visit Website](https://img.shields.io/badge/Visit-Website-0A66C2?logo=googlechrome&logoColor=white)](https://www.gerowtech.com)
 
 ## Contributing
 
