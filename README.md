@@ -8,84 +8,24 @@ Payment gateway integration resources for Pakistani e-commerce stores, SaaS prod
 
 > **Project status:** This README is an overview and integration-planning resource, not a complete payment gateway implementation. Merchant eligibility, supported payment methods, API access, fees, and recurring-payment capabilities can change. Confirm details with each provider before going live.
 
-## Payment Providers in Pakistan
+## 🇵🇰 Supported Payment Providers
 
-The providers below are options to evaluate for Pakistani businesses. Merchant eligibility, API access, supported payment methods, fees, and settlement terms depend on each provider's current offering and approval.
+Professional payment gateway integration services for e-commerce, SaaS, and custom web applications in Pakistan.
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Payment Provider</th>
-      <th align="center">Logo</th>
-      <th>Potential use case</th>
-      <th>Official website</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Safepay</strong></td>
-      <td align="center"><a href="https://safepay.pk/"><img src="https://www.google.com/s2/favicons?domain=safepay.pk&sz=128" width="48" alt="Safepay logo"></a></td>
-      <td>Online checkout and payment APIs</td>
-      <td><a href="https://safepay.pk/">safepay.pk</a></td>
-    </tr>
-    <tr>
-      <td><strong>PayFast Pakistan</strong></td>
-      <td align="center"><a href="https://gopayfast.com/"><img src="https://www.google.com/s2/favicons?domain=gopayfast.com&sz=128" width="48" alt="PayFast Pakistan logo"></a></td>
-      <td>Online merchant payments</td>
-      <td><a href="https://gopayfast.com/">gopayfast.com</a></td>
-    </tr>
-    <tr>
-      <td><strong>JazzCash</strong></td>
-      <td align="center"><a href="https://www.jazzcash.com.pk/"><img src="https://www.google.com/s2/favicons?domain=jazzcash.com.pk&sz=128" width="48" alt="JazzCash logo"></a></td>
-      <td>Mobile wallet and supported merchant payment methods</td>
-      <td><a href="https://www.jazzcash.com.pk/">jazzcash.com.pk</a></td>
-    </tr>
-    <tr>
-      <td><strong>Easypaisa</strong></td>
-      <td align="center"><a href="https://easypaisa.com.pk/"><img src="https://logo.clearbit.com/easypaisa.com.pk" width="48" alt="Easypaisa logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=easypaisa.com.pk&sz=128';"></a></td>
-      <td>Wallet and supported merchant payment methods</td>
-      <td><a href="https://easypaisa.com.pk/">easypaisa.com.pk</a></td>
-    </tr>
-    <tr>
-      <td><strong>HBL</strong></td>
-      <td align="center"><a href="https://www.hbl.com/"><img src="https://www.google.com/s2/favicons?domain=hbl.com&sz=128" width="48" alt="HBL logo"></a></td>
-      <td>Bank merchant and online payment solutions</td>
-      <td><a href="https://www.hbl.com/">hbl.com</a></td>
-    </tr>
-    <tr>
-      <td><strong>Keenu</strong></td>
-      <td align="center"><a href="https://keenu.pk/"><img src="https://logo.clearbit.com/keenu.pk" width="48" alt="Keenu logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=keenu.pk&sz=128';"></a></td>
-      <td>Merchant payment solutions; confirm the required service with the provider</td>
-      <td><a href="https://keenu.pk/">keenu.pk</a></td>
-    </tr>
-    <tr>
-      <td><strong>Bank Alfalah</strong></td>
-      <td align="center"><a href="https://www.bankalfalah.com/"><img src="https://logo.clearbit.com/bankalfalah.com" width="48" alt="Bank Alfalah logo" onerror="this.onerror=null;this.src='https://www.google.com/s2/favicons?domain=bankalfalah.com&sz=128';"></a></td>
-      <td>Bank merchant and online payment solutions</td>
-      <td><a href="https://www.bankalfalah.com/">bankalfalah.com</a></td>
-    </tr>
-    <tr>
-      <td><strong>MCB Bank</strong></td>
-      <td align="center"><a href="https://www.mcb.com.pk/mcb-payment-solutions/"><img src="https://www.google.com/s2/favicons?domain=mcb.com.pk&sz=128" width="48" alt="MCB Bank logo"></a></td>
-      <td>MCB eGate and merchant payment solutions</td>
-      <td><a href="https://www.mcb.com.pk/mcb-payment-solutions/">mcb.com.pk — Payment Solutions</a></td>
-    </tr>
-    <tr>
-      <td><strong>Faysal Bank</strong></td>
-      <td align="center"><a href="https://www.faysalbank.com/"><img src="https://www.google.com/s2/favicons?domain=faysalbank.com&sz=128" width="48" alt="Faysal Bank logo"></a></td>
-      <td>Contact the bank to confirm current merchant acquiring and e-commerce integration options</td>
-      <td><a href="https://www.faysalbank.com/">faysalbank.com</a></td>
-    </tr>
-    <tr>
-      <td><strong>Rapid Gateway</strong></td>
-      <td align="center"><a href="https://rapidgateway.pk/"><img src="https://www.google.com/s2/favicons?domain=rapidgateway.pk&sz=128" width="48" alt="Rapid Gateway logo"></a></td>
-      <td>Payment gateway, cards, wallets, Raast, and bank-transfer options, subject to merchant approval</td>
-      <td><a href="https://rapidgateway.pk/">rapidgateway.pk</a></td>
-    </tr>
-  </tbody>
-</table>
+| Payment Provider | Logo | Official Website |
+|---|---|---|
+| **Safepay** | <img src="https://www.google.com/s2/favicons?domain=safepay.pk&sz=128" width="48" alt="Safepay logo"> | [safepay.pk](https://safepay.pk/) |
+| **PayFast Pakistan** | <img src="https://www.google.com/s2/favicons?domain=gopayfast.com&sz=128" width="48" alt="PayFast logo"> | [gopayfast.com](https://gopayfast.com/) |
+| **JazzCash** | <img src="https://www.google.com/s2/favicons?domain=jazzcash.com.pk&sz=128" width="48" alt="JazzCash logo"> | [jazzcash.com.pk](https://www.jazzcash.com.pk/) |
+| **Easypaisa** | <img src="https://www.google.com/s2/favicons?domain=easypaisa.com.pk&sz=128" width="48" alt="Easypaisa logo"> | [easypaisa.com.pk](https://easypaisa.com.pk/) |
+| **HBL** | <img src="https://www.google.com/s2/favicons?domain=hbl.com&sz=128" width="48" alt="HBL logo"> | [hbl.com](https://www.hbl.com/) |
+| **Keenu** | <img src="https://www.google.com/s2/favicons?domain=keenu.pk&sz=128" width="48" alt="Keenu logo"> | [keenu.pk](https://keenu.pk/) |
+| **Bank Alfalah** | <img src="https://www.google.com/s2/favicons?domain=bankalfalah.com&sz=128" width="48" alt="Bank Alfalah logo"> | [bankalfalah.com](https://www.bankalfalah.com/) |
+| **MCB Bank** | <img src="https://www.google.com/s2/favicons?domain=mcb.com.pk&sz=128" width="48" alt="MCB Bank logo"> | [mcb.com.pk](https://www.mcb.com.pk/) |
+| **Faysal Bank** | <img src="https://www.google.com/s2/favicons?domain=faysalbank.com&sz=128" width="48" alt="Faysal Bank logo"> | [faysalbank.com](https://www.faysalbank.com/) |
+| **Rapid Gateway** | <img src="https://www.google.com/s2/favicons?domain=rapidgateway.pk&sz=128" width="48" alt="Rapid Gateway logo"> | [rapidgateway.pk](https://rapidgateway.pk/) |
 
-**Logo note:** The small images above are domain favicons loaded from Google's favicon service; they are not guaranteed to be official high-resolution brand files. For commercial use, download approved brand assets from each provider and follow its brand guidelines. All logos and trademarks belong to their respective owners.
+> **Logo troubleshooting:** These are favicon images loaded from Google's favicon service, not official high-resolution brand assets. If a provider's favicon is unavailable or blank, download an approved logo image and store it in this repository (for example, `assets/payment-gateways/easypaisa.png`), then use a relative image path such as `![Easypaisa](assets/payment-gateways/easypaisa.png)`. GitHub sanitizes some HTML attributes, so JavaScript-based image fallbacks may not work in README files. Verify each provider's current official website and merchant/API availability before implementation.
 ## Technology Stack & Logos
 
 ### Frontend
@@ -183,6 +123,15 @@ Add `.env` to `.gitignore`. If you include an `.env.example`, use placeholders o
 - [Keenu](https://keenu.pk/)
 
 Always consult the selected provider's official developer documentation for authentication, API endpoints, sandbox testing, webhook verification, supported payment methods, and production approval.
+
+## 📞 Contact & Get a Quote
+
+Need payment gateway integration for your e-commerce store, SaaS product, or custom web application? Contact **GEROW TECH** to discuss your requirements.
+
+- **WhatsApp:** [+92 321 5348101](https://wa.me/923215348101)
+- **Website:** [www.gerowtech.com](https://www.gerowtech.com)
+
+**Ready to integrate payments?** [Chat with us on WhatsApp](https://wa.me/923215348101) or visit [GEROW TECH](https://www.gerowtech.com).
 
 ## Contributing
 
