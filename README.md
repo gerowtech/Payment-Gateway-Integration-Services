@@ -370,7 +370,6 @@ Contributions are welcome. Before adding or changing a provider:
 
 **Built for developers and businesses by GEROW TECH LLC**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?logo=whatsapp&logoColor=white)]
-[![Website](https://img.shields.io/badge/Visit- gerowtech.com-0A66C2?logo=googlechrome&logoColor=white)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20us-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923215348101) [![Visit Website](https://img.shields.io/badge/Visit-Website-0A66C2?logo=googlechrome&logoColor=white)](https://www.gerowtech.com)
 
 </div>
