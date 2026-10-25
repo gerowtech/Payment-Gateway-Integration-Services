@@ -366,12 +366,11 @@ Contributions are welcome. Before adding or changing a provider:
 5. Mark unverified information as `Needs verification`.
 6. Avoid publishing private keys, customer data, or confidential account information.
 
-## 📞 Contact GEROW TECH
+## 📞 Contact & Get a Quote
 
-Need help integrating a payment gateway into your website, store, SaaS product, or custom application?
+Need payment gateway integration for your e-commerce store, SaaS product, or custom web application? Contact **GEROW TECH** to discuss your requirements.
 
-- **WhatsApp:** [Chat with GEROW TECH](https://wa.me/923215348101) — [+92 321 5348101](https://wa.me/923215348101)
-- **Website:** [www.gerowtech.com](https://www.gerowtech.com)
+**Ready to integrate payments?** [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20us-25D366?logo=whatsapp&logoColor=white)](https://wa.me/923215348101) [![Visit Website](https://img.shields.io/badge/Visit-Website-0A66C2?logo=googlechrome&logoColor=white)](https://www.gerowtech.com)
 
 ---
 
